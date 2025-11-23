@@ -1,0 +1,56 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    border: 3px solid blue;
+}
+h1 {
+    text-align: center;
+    color: purple;
+    
+}
+footer{
+    background-color:pink;
+    padding: 7px;
+}
+footer p{
+    background-color: white;
+    padding: 2px;
+    margin: 3px;
+}
+nav a {
+    margin: 20px;
+    font-size:15px;
+    text-decoration:none;
+    color:white;
+    border: 2px solid navy;
+    border-radius: 10px;
+    background-color: navy;
+    padding: 3px;
+}
+.pop{
+    background-color: white;
+    color: royalblue;
+}
+nav{
+    margin: 15px;
+}
+.foto{
+   background-color: aquamarine;
+   padding: 10px;
+}
+p{
+    font-size: 20px;
+}
+.con{
+    border: 2px solid blue;
+    padding: 5px;
+    color: blue;
+    text-decoration: none;
+}
+h2{
+    color: blue;
+    margin: 10px;
+}
+
+
